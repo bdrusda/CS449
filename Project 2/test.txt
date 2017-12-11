@@ -1,0 +1,8 @@
+test file for mystrings program written for project
+2 in cs449.  a s e r i e s of short words
+
+areallylongword
+
+file ends in something that should not 
+
+pri nt
